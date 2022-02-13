@@ -1,0 +1,19 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "Test task for passing the course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hacker-rue/test_task.git"
+  },
+  "author": "Pavel Soldatov <pavlik.soldatov.12@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hacker-rue/test_task/issues"
+  },
+  "homepage": "https://github.com/Hacker-rue/test_task#readme"
+}
