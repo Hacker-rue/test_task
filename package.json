@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hacker-rue/test_task/issues"
   },
-  "homepage": "https://github.com/Hacker-rue/test_task#readme"
+  "homepage": "https://github.com/Hacker-rue/test_task#readme",
+  "dependencies": {
+    "web3": "^1.7.0"
+  }
 }
